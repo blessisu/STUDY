@@ -303,7 +303,7 @@ for idx, (start, end) in enmerate(parts):
 
 > pikepdf module 사용
 
-<mark>페이지 번호가 큰 쪽부터 제거</mark> ==> 앞 쪽 먼저 제거할 시, 페이지 번호 당겨져서! ! !
+<span style="background-color: #ffe400">페이지 번호가 큰 쪽부터 제거</span> ==> 앞 쪽 먼저 제거할 시, 페이지 번호 당겨져서! ! !
 
 ```python
 import pikepdf
